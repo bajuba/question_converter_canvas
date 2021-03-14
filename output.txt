@@ -1,0 +1,189 @@
+03. Question 3
+###
+multiblank~1
+###
+The [1] property specifies whether or not an element is VISIBLE. Tip: Hidden elements take up space on the page.
+###
+1~visibility~visibilitys
+###
+###
+04. Question 4
+###
+multiblank~1
+###
+visibility: [1] ; also hides an element on the page. The element will still take up the same space as before.
+###
+1~hidden~hiddens
+###
+###
+05. Question 5
+###
+multiblank~1
+###
+An element with position: [1] ; is positioned relative to the elements container if that container is not static.
+###
+1~absolute~absolutes
+###
+###
+06. Question 6
+###
+multiblank~1
+###
+An element with position: [1] ; is positioned based on the user's scroll position.
+###
+1~sticky~stickys
+###
+###
+07. Question 7
+###
+multiblank~1
+###
+The [1] property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
+###
+1~position~positions
+###
+###
+08. Question 8
+###
+multiblank~1
+###
+HTML elements are positioned [1] by default.
+###
+1~static~statics
+###
+###
+09. Question 9
+###
+multiblank~1
+###
+[1] positioned elements are not affected by the top, bottom, left, and right properties.
+###
+1~Static~Statics
+###
+###
+010. Question 10
+###
+multiblank~1
+###
+An element with position: [1] ; is positioned relative to its normal position.
+###
+1~relative~relatives
+###
+###
+011. Question 11
+###
+multiblank~1
+###
+An element with position: [1] ; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element.
+###
+1~fixed~fixeds
+###
+###
+012. Question 12
+###
+multiblank~1
+###
+The [1] property specifies the column width.
+###
+1~column-width~column-widths
+###
+###
+013. Question 13
+###
+multiblank~1
+###
+The [1] property specifies the number of columns an element should be divided into.
+###
+1~column-count~column-counts
+###
+###
+014. Question 14
+###
+multiblank~1
+###
+The [1] property is a shorthand property for two other basic column properties.
+###
+1~columns~columnss
+###
+###
+015. Question 15
+###
+multiblank~1
+###
+The CSS [1] property controls what happens to content that is too big to fit into an area.
+###
+1~overflow~overflows
+###
+###
+016. Question 16
+###
+multiblank~1
+###
+The overflow property has the following value: [1] - Default. The overflow is not clipped. The content renders outside the element's box.
+###
+1~visible~visibles
+###
+###
+017. Question 17
+###
+multiblank~1
+###
+The overflow property has the following value: [1] - The overflow is clipped, and the rest of the content will be invisible. (This is how a lot of websites prevent you from using an adblocker, or require you to sign up.)
+###
+1~hidden~hiddens
+###
+###
+018. Question 18
+###
+multiblank~1
+###
+The overflow property has the following value: [1] - The overflow is clipped, and a scrollbar is added to see the rest of the content
+###
+1~scroll~scrolls
+###
+###
+019. Question 19
+###
+multiblank~1
+###
+The overflow property has the following value: [1] - Similar to scroll, but it adds scrollbars only when necessary
+###
+1~auto~autos
+###
+###
+020. Question 20
+###
+multiblank~1
+###
+The [1] property changes the overflow of content horizontally.
+###
+1~overflow-x~overflow-xs
+###
+###
+021. Question 21
+###
+multiblank~1
+###
+The [1] property changes the overflow of content vertically.
+###
+1~overflow-y~overflow-ys
+###
+###
+022. Question 22
+###
+multiblank~1
+###
+The [1] property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order.
+###
+1~z-index~z-indexs
+###
+###
+023. Question 23
+###
+multiblank~1
+###
+The [1] rule in CSS is used to add more importance to a property/value than normal.
+###
+1~!important~!importants
+###
+###
